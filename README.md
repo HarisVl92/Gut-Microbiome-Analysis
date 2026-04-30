@@ -3,23 +3,8 @@
   Acknowledgment / Data Provenance
                                                                                                                                                       
   The cleaned dataset analyzed in this repository (joined_MI_ready.csv)                                                                               
-  was prepared and made publicly available by:
-                                                                                                                                                      
-  Buchanan, B. (2024). Mutual Information Between Gut Bacterial
-  Abundance and Crohn's Disease Status. CSDS 313 — Intro to Data
-  Analysis, Case Western Reserve University                                                                                                           
-  (Instructor: Dr. M. Koyuturk).
-  https://github.com/brookeb2000/crohns-microbiome-analysis                                                                                           
-                                                                                                                                                      
-  I obtained the cleaned dataset from the above repository. All                                                                                       
-  analysis code in this repository (SRC/) was written from scratch                                                                                    
-  by me. The descriptive comparative analysis presented here                                                                                          
-  (mean relative abundance per taxon, presence-based richness,
-  visualization, and biological interpretation) is my own work                                                                                        
-  and is distinct in scope from the upstream mutual-information                                                                                       
-  analysis. The underlying microbiome data originate from GMrepo /
-  ENA project PRJEB42155 (see "Data Source" below).                                                                                                   
-                  
+  was prepared and made publicly available by: https://github.com/brookeb2000/crohns-microbiome-analysis 
+  
   Project Abstract                                                                                                                                    
                   
   This project presents a comparative analysis of gut microbiome                                                                                      
@@ -62,19 +47,7 @@
    - \`Roseburia\`                                                                                                                                    
    
    - \`Veillonella\`                                                                                                                                  
-                  
-
-  Data Source
-
-  - Repository: GMrepo (https://gmrepo.humangut.info/)
-  - ENA project: PRJEB42155
-    (https://www.ebi.ac.uk/ena/browser/view/PRJEB42155)                                                                                               
-  - Cohort: "UCSD IBD 200 Patient Cohort Multi-omic Project"
-    (UCSD Microbiome Initiative; Qiita study 12675)                                                                                                   
-  - Subset analyzed: 132 samples — 114 Crohn's disease, 18 healthy controls
-  - Data type: shotgun-metagenomics-derived microbial relative abundance                                                                              
-  - Note: the analysis is restricted to 9 IBD-relevant taxa selected
-    in the upstream educational project, not the full taxonomic profile.                                                                              
+                                                                                             
                   
                                                                                                                                                       
   Analysis Workflow
