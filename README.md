@@ -107,7 +107,7 @@ the windows.
 **Charalampos Vlassakis** · [GitHub](https://github.com/HarisVl92)
 
 Related project:
-[crohns-disease-rnaseq](https://github.com/HarisVl92/crohns-disease-rnaseq), on the host
+[Crohns-Disease-RNA-Seq](https://github.com/HarisVl92/Crohns-Disease-RNA-Seq), on the host
 gene-expression side of Crohn's disease.
 
 ## License
