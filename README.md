@@ -93,3 +93,9 @@
   Author                                                                                                                                              
                                                                                                                                                       
   Haris Vlassakis 
+
+  License
+
+  The code in this repository is released under the MIT License (see LICENSE).
+  The dataset in Data/ comes from the repository credited above and is redistributed
+  under its own MIT License (see Data/LICENSE).
